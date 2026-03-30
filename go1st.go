@@ -6,7 +6,7 @@ import (
 
 //tis is very fast
 /*arif cool edc */
-
+// new add line for test
 var (
 	A int = 1
 	B     = 3.14
